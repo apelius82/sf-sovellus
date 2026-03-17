@@ -1,0 +1,12 @@
+[22-Feb-2026 18:45:00 Europe/Helsinki] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'published_at' in 'field list' in /home/deb4000107/domains/tapojarvi.online/public_html/safetyflash-system/assets/pages/view.php:1651
+Stack trace:
+#0 /home/deb4000107/domains/tapojarvi.online/public_html/safetyflash-system/assets/pages/view.php(1651): PDO->prepare()
+#1 /home/deb4000107/domains/tapojarvi.online/public_html/safetyflash-system/index.php(229): include('...')
+#2 {main}
+  thrown in /home/deb4000107/domains/tapojarvi.online/public_html/safetyflash-system/assets/pages/view.php on line 1651
+[22-Feb-2026 18:45:06 Europe/Helsinki] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'published_at' in 'field list' in /home/deb4000107/domains/tapojarvi.online/public_html/safetyflash-system/assets/pages/view.php:1651
+Stack trace:
+#0 /home/deb4000107/domains/tapojarvi.online/public_html/safetyflash-system/assets/pages/view.php(1651): PDO->prepare()
+#1 /home/deb4000107/domains/tapojarvi.online/public_html/safetyflash-system/index.php(229): include('...')
+#2 {main}
+  thrown in /home/deb4000107/domains/tapojarvi.online/public_html/safetyflash-system/assets/pages/view.php on line 1651
